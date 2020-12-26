@@ -5,24 +5,30 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode development"
+    "build:dev": "webpack --mode development"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pushkarpanchal/webpack-test-project.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Pushkar panchal",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pushkarpanchal/webpack-test-project/issues"
   },
   "homepage": "https://github.com/pushkarpanchal/webpack-test-project#readme",
   "dependencies": {
+    "node-sass": "^5.0.0",
     "postcss-loader": "^4.1.0",
     "style-loader": "^2.0.0",
     "tailwindcss": "^2.0.2",
     "webpack": "^5.11.0",
     "webpack-cli": "^4.3.0"
+  },
+  "devDependencies": {
+    "stylelint": "^13.8.0",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-standard": "^20.0.0"
   }
 }

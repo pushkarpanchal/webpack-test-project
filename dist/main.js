@@ -16,7 +16,7 @@
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./style.css\");\n\n\nconsole.log('Tailwind init')\n\n//# sourceURL=webpack://webpack-test-project/./app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./style.css\");\n\n\n//# sourceURL=webpack://webpack-test-project/./app.js?");
 
 /***/ }),
 
@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \*************************************************************/
 /***/ (() => {
 
-eval("\n\n//# sourceURL=webpack://webpack-test-project/./style.css?./node_modules/postcss-loader/dist/cjs.js");
+eval("throw new Error(\"Module parse failed: Unexpected token (12:0)\\nFile was processed with these loaders:\\n * ./node_modules/postcss-loader/dist/cjs.js\\nYou may need an additional loader to handle the result of these loaders.\\n| */\\n| \\n> *,\\n| *::before,\\n| *::after {\");\n\n//# sourceURL=webpack://webpack-test-project/./style.css?./node_modules/postcss-loader/dist/cjs.js");
 
 /***/ }),
 
